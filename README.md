@@ -52,40 +52,6 @@ Building scalable software, AI-powered applications, and backend systems that so
 
 ---
 
-## 🚀 Featured Projects
-
-### 📄 AI-Powered Resume Intelligence Platform
-
-An AI-powered recruitment intelligence platform that transforms traditional keyword-based resume screening into explainable, data-driven hiring decisions. Built using hybrid semantic search (BERT embeddings, BM25, and vector search), it delivers intelligent candidate matching, skill adjacency prediction, hiring risk analysis, explainable AI recommendations, recruiter analytics, automated reporting, and enterprise-grade recruitment workflows.
-
----
-
-### 💰 TataSmartAgent – Deterministic Agentic AI Loan Underwriting System
-
-Developed an enterprise-grade Agentic AI loan underwriting platform using LangGraph, FastAPI, React, and Gemini Vision. Features explainable credit scoring, OCR-based document verification, modular AI agents, and secure API integrations. Selected among the **Top 60 teams nationwide** in the EY Techathon.
-
----
-
-### 🌐 WebInspect – AI-Powered SEO & Website Audit Platform
-
-Built a full-stack SEO auditing platform using React, Express.js, MongoDB, Firebase, and Puppeteer to automate technical website analysis. Generates AI-powered optimization recommendations with severity-based issue prioritization across 40+ websites.
-
----
-
-### 🩺 VAIDYA – AI Healthcare Assistant
-
-An AI-powered healthcare assistant providing symptom analysis, medication reminders, emergency SOS, healthcare recommendations, and an intuitive patient-focused interface for everyday health management.
-
----
-
-### 🎮 Connect 4 AI
-
-A modern implementation of the classic Connect 4 game featuring an intelligent AI opponent powered by the **Minimax algorithm with Alpha-Beta Pruning**. Available as both a desktop application and a browser-based game with multiple difficulty levels, game analytics, themes, undo functionality, and persistent statistics.
-
-🔗 **Play Online:** https://tanishamukherjee.github.io/Connect-4/
-
----
-
 ## 📫 Connect With Me
 
 📧 **Email**  
