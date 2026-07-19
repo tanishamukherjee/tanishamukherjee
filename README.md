@@ -60,18 +60,18 @@ Building scalable software, AI-powered applications, and backend systems that so
 
 ## 🚀 Featured Projects
 
-### 📄 AI Resume Intelligence
-Next-generation resume analysis platform leveraging semantic search, intelligent candidate ranking, ATS evaluation, and AI-powered hiring insights.
+### 📄 AI-Powered Resume Intelligence Platform
+An AI-powered recruitment intelligence platform that transforms traditional keyword-based resume screening into explainable, data-driven hiring decisions. Built using a hybrid semantic search engine combining BERT embeddings, BM25, and vector search, it features intelligent candidate matching, skill adjacency prediction, hiring risk assessment, recruiter analytics, explainable AI recommendations, automated reporting, and secure enterprise-grade recruitment workflows.
 
 ---
 
-### 🤖 HELIX
-AI-powered recruitment intelligence platform with resume parsing, ATS analysis, candidate ranking, recruiter dashboards, and intelligent hiring workflows.
+### 💰 TataSmartAgent – Deterministic Agentic AI Loan Underwriting System
+Developed an enterprise-grade Agentic AI loan underwriting platform using LangGraph, FastAPI, React, and Gemini Vision. Built explainable credit scoring, OCR-based verification, and modular API integrations. Selected among the Top 60 teams nationwide in the EY Techathon.
 
 ---
 
-### 💰 TataSmartAgent
-Agentic AI loan underwriting platform developed during the EY Techathon using multiple AI agents to automate credit assessment and financial risk analysis.
+### 🤖 WebInspect – AI-Powered SEO & Web Audit Platform
+Developed a full-stack SEO audit platform using React, Express.js, MongoDB, Firebase, and Puppeteer. Automated website analysis with AI-powered recommendations and severity-based issue prioritization across 40+ websites.
 
 ---
 
@@ -80,6 +80,13 @@ Agentic AI loan underwriting platform developed during the EY Techathon using mu
 AI-powered healthcare assistant offering symptom analysis, medication reminders, emergency SOS, doctor recommendations, and health insights.
 
 ---
+
+### 🎮 Connect 4 AI
+
+A modern implementation of the classic Connect 4 game featuring an intelligent AI opponent powered by the **Minimax algorithm with Alpha-Beta Pruning**. Available as both a desktop application and a browser-based game with multiple difficulty levels, game analytics, themes, undo functionality, and persistent statistics.
+
+---
+
 
 ## 📊 GitHub Analytics
 
