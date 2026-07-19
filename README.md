@@ -52,21 +52,7 @@ Building scalable software, AI-powered applications, and backend systems that so
 
 ---
 
-## 📫 Connect With Me
 
-📧 **Email**  
-**tanishamukherjee15.05@gmail.com**
-
-💼 **LinkedIn**  
-https://www.linkedin.com/in/tanisha-mukherjee-333788281
-
-📄 **Resume**  
-https://drive.google.com/file/d/1feCrvunPRp4g9eV7-KQahihIvq_15x3L/view?usp=sharing
-
-🌐 **Portfolio**  
-Coming Soon 🚀
-
----
 
 <p align="center">
 <i>"Building software that is scalable, intelligent, and impactful."</i>
